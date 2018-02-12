@@ -1,0 +1,6 @@
+git add (--all)
+git status
+git log --oneline
+git commit -am "première version"
+
+
